@@ -6,7 +6,7 @@
 using namespace std;
 
 /*Algorithm complexity is O(N^2) calculations',
-where O - is certain constant of time and N - is count of vertexes*/
+where O - is complexity and N - is count of vertexes*/
 
 int main()
 {	
